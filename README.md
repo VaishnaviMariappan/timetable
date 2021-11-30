@@ -102,4 +102,6 @@ Execute the program
 
 ### SERVER SIDE OUTPUT:
 ![SERVERSIDEOUTPUT](./HTMLvalidator.png!)[HTMLvalidator]![HTMLvalidator](https://user-images.githubusercontent.com/94169913/144074557-567a9d68-b58b-4dfa-a590-4fbbf5944190.png)
+## Result:
+Thus, a HTML webpage is created to display the first semester timetable.
 
