@@ -20,32 +20,72 @@ Execute the program
    <head>
       <title>TIME TABLE</title>
    </head>
-	
    <body>
-      <table border = "1" cellspacing="1" bordercolor="blue" bgcolor="yellow">
+   <img src="logo1.jpg" width="700" height="100" alt="timetable">
+      <table border = "4" cellspacing="4" bordercolor="black" bgcolor="palegreen">
          <tr>
             <th colspan="8">TIME TABLE</th>
+            <th>Faculty Name</th>
          </tr>
-         
          <tr>
-            <th>DAYS</th>
+            <th colspan=2>Reference No:</th>
+            <th colspan=2>21500310</th>
+            <th>Name</th>
+            <th colspan=3>Vaishnavi M</th>
+            <td rowspan=2>Web Tech-Mr Obed Otto</td>
+         </tr>
+         <tr>
+              <th rowspan=2>DAYS</th>
+              <th colspan=7>Subjects</th>
+              
+         </tr>
+         <tr>
             <th>1</th>
             <th>2</th>
             <th>3</th>
              <th>4</th>
-            <th rowspan="6">lunch break</th>
+            <td align="center" rowspan=3>Lunch Break</td>
             <th>5</th>
             <th>6</th>
+            <td rowspan=2>Python&linear algebra -Mrs. Archana</td>
          </tr>
-          <tr>
-             <td>MONDAY</td>
-             <td>Accounts</td>
-             <td>English</td>
-             <td>Statistics</td>
-             <td>Banking</td>
-             <td align="center">-</td>
-             <td align="center">EP</td>
+         <tr>
+            <th>MONDAY</th>
+            <td align="center" colspan=2>Web Technology</td>
+            <td align="center" colspan=2>Python&linear algebra</td>
+            <td align="center" colspan=2>Python&linear algebra</td>
+            
          </tr>
+         <tr>
+            <th>TUESDAY</th>
+            <td align="center">-</td>
+            <td align="center">-</td>
+            <td align="center" colspan=2>Mech Design&Modeling</td>
+            <td align="center" colspan=2>Mech Design&Modeling</td>
+            <td rowspan=2>Mech Design&Modeling -Mr.Sridhar</td>
+         </tr>
+         <tr>
+            <th>WEDNESDAY</th>
+            <td align="center" colspan=2>Soft Skills</td>
+            <td align="center" colspan=2>Python&linear algebra</td>
+            <td>Mentoring</td>
+            <td align="center" colspan=2>Web Technology</td>
+         </tr>
+         <tr>
+            <th>THURSDAY</th>
+            <td align="center" colspan=2>Mech Design&Modeling</td>
+            <td align="center" colspan=2>Python&lin algebra</td>
+            <td align="center" rowspan=2>Lunch Break</td>
+            <td align="center" colspan=2>Mech Design&Modeling</td>
+            <td rowspan=2>Soft Skills-Mrs.Sneha Priya</td>
+        </tr>
+        <tr>
+            <th>FRIDAY</th>
+            <td align="center">-</td>
+            <td align="center">-</td>
+            <td align="center" colspan=2>Pyhton&linear algebra</td>
+            <td align="center" colspan=2>Mech Design&Modeling</td>
+        </tr>
   
          
       </table>
@@ -54,5 +94,10 @@ Execute the program
 </html>
 
 
+
 ~~~
 # OUPUT
+### CLIENT SIDE OUTPUT:
+![CLIENTSIDEOUTPUT](./HTMLtimetable.png!)[HTMLtimetable])
+### SERVER SIDE OUTPUT:
+![SERVERSIDEOUTPUT](./HTMLvalidator.png!)[HTMLvalidator]
