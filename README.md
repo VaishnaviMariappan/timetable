@@ -85,11 +85,9 @@ Execute the program
 ~~~
 # OUPUT
 ### CLIENT SIDE OUTPUT:
-[HTMLtimetable])![HTMLtimetable](https://user-images.githubusercontent.com/94169913/144074481-5eef2362-aecf-4496-9e3f-9545ec49f905.png)
-
+![HTMLtimetable](https://user-images.githubusercontent.com/94169913/144074481-5eef2362-aecf-4496-9e3f-9545ec49f905.png)
 ### SERVER SIDE OUTPUT:
 ![HTMLvalidator](https://user-images.githubusercontent.com/94169913/154791964-df577c6a-611f-4976-a9de-f0786b29da76.png)
-
 ## Result:
 Thus, a HTML webpage is created to display the first semester timetable.
 
