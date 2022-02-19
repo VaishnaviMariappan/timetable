@@ -31,10 +31,6 @@ Execute the program
             <td rowspan=2>Web Tech-Mr Obed Otto</td>
          </tr>
          <tr>
-              <th rowspan=2>DAYS</th>
-              <th colspan=7>Subjects</th>
-         </tr>
-         <tr>
             <th>1</th>
             <th>2</th>
             <th>3</th>
