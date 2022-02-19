@@ -1,8 +1,6 @@
 # Experiment_Time_Table
-
 ## AIM
 To Write a html webpage page to display your timetable.
-
 # ALGORITHM
 ### STEP 1
 create a simple table using table tag
@@ -12,11 +10,9 @@ Add header row using th tag
 Add your timetable
 ### STEP 4
 Execute the program
-
 # CODE
 ~~~<!DOCTYPE html>
 <html>
-
    <head>
       <title>TIME TABLE</title>
    </head>
@@ -37,7 +33,6 @@ Execute the program
          <tr>
               <th rowspan=2>DAYS</th>
               <th colspan=7>Subjects</th>
-              
          </tr>
          <tr>
             <th>1</th>
@@ -54,7 +49,6 @@ Execute the program
             <td align="center" colspan=2>Web Technology</td>
             <td align="center" colspan=2>Python&linear algebra</td>
             <td align="center" colspan=2>Python&linear algebra</td>
-            
          </tr>
          <tr>
             <th>TUESDAY</th>
@@ -86,10 +80,7 @@ Execute the program
             <td align="center" colspan=2>Pyhton&linear algebra</td>
             <td align="center" colspan=2>Mech Design&Modeling</td>
         </tr>
-  
-         
       </table>
-      
    </body>
 </html>
 
